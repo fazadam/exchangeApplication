@@ -1,0 +1,31 @@
+[ {
+  "amountToChange" : "23",
+  "changeFrom" : "USD",
+  "changeTo" : "GBP",
+  "changedValue" : "16.967100000000002"
+} ][ {
+  "amountToChange" : "5",
+  "changeFrom" : "EUR",
+  "changeTo" : "HUF",
+  "changedValue" : "1891.7859999999998"
+} ][ {
+  "amountToChange" : "5",
+  "changeFrom" : "EUR",
+  "changeTo" : "HUF",
+  "changedValue" : "1891.7859999999998"
+} ][ {
+  "amountToChange" : "3",
+  "changeFrom" : "EUR",
+  "changeTo" : "HUF",
+  "changedValue" : "1135.0716"
+} ][ {
+  "amountToChange" : "1",
+  "changeFrom" : "EUR",
+  "changeTo" : "HUF",
+  "changedValue" : "378.3572"
+} ][ {
+  "amountToChange" : "3",
+  "changeFrom" : "EUR",
+  "changeTo" : "HUF",
+  "changedValue" : "1135.0716"
+} ]
